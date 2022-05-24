@@ -18,5 +18,8 @@ javac State.java BFS.java AStar.java Main.java<br>
 <h3>Para rodar:</h3>
 
 java Main
-
+<br>
+<br>
+[VIDEO]<br>
+https://youtu.be/bvydHQviFbQ
 
